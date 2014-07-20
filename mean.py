@@ -8,8 +8,8 @@ n = 0
 # Modifying Chris' program
 
 # Sum input values
-for num in open('data.txt'):
-	sum += float(num)
+for numb in open('data.txt'):
+	sum += float(numb)
 	n += 1
 
 print "The mean is: " 
