@@ -1,3 +1,5 @@
+# Print the mean of numbers in file data.txt
+
 import sys
 
 sum = 0
