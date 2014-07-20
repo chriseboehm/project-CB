@@ -7,6 +7,16 @@ n = 0
 
 # Modifying Chris' program
 
+
+
+
+
+
+
+
+
+#glu
+
 # Sum input values
 for numb in open('data.txt'):
 	sum += float(numb)
